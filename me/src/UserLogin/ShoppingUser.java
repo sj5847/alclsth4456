@@ -5,8 +5,6 @@ import java.util.Scanner;
 import Shopping.ShoppingData;
 
 public class ShoppingUser {
-//	public static String id="sojin0413" ;
-//	public static String pw="1234";
 	
 	public static void user() {
 	Scanner sc = new Scanner(System.in);
